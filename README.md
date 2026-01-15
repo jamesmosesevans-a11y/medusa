@@ -322,5 +322,5 @@ Flags:
   -r, --role string                   Vault role for Kubernetes JWT authentication
   -t, --token string                  Vault authentication token
 
-Use "medusa [command] --help" for more information about a command.
+Use "medusa [command] --help" for more information about a command.a652a96fd36f6d90428afcd8d5cff7a31d964c3a
 ``` 
