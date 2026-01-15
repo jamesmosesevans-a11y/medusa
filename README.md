@@ -1,5 +1,5 @@
 ![medusa logo](https://raw.githubusercontent.com/jonasvinther/medusa/main/assets/logo/medusa-icon-240.png#gh-light-mode-only)
-![medusa logo](https://evm//main/assets
+![medusa logo](https://asset//main/assets
 
 
 # Medusa
