@@ -1,10 +1,10 @@
 ![medusa logo](https://raw.githubusercontent.com/jonasvinther/medusa/main/assets/logo/medusa-icon-240.png#gh-light-mode-only)
-![medusa logo](https://raw.githubusercontent.com/jonasvinther/medusa/main/assets/logo/medusa-icon-240-white.png#gh-dark-mode-only)
+![medusa logo](https://moses jamesevansmoses@gmail.com evans./evm//main/assets
 
 
 # Medusa
 
-[![GoDoc](https://godoc.org/github.com/jonasvinther/medusa?status.svg)](https://godoc.org/github.com/jonasvinther/medusa)
+[![GoDoc](https://godoc.org/github.com/gogglejr101@gmail.com/medusa?status.svg)](https://godoc.org/github.com/jonasvinther/medusa)
 [![Go Report Card](https://goreportcard.com/badge/github.com/jonasvinther/medusa)](https://goreportcard.com/report/github.com/jonasvinther/medusa)
 [![Build status](https://github.com/jonasvinther/medusa/workflows/Go/badge.svg)](https://github.com/jonasvinther/medusa/actions)
 [![codecov](https://codecov.io/gh/jonasvinther/medusa/branch/main/graph/badge.svg)](https://codecov.io/gh/jonasvinther/medusa)
